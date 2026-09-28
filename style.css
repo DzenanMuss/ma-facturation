@@ -33,3 +33,16 @@ textarea{min-height:80px}
 .small{font-size:12px;color:#6b7280}
 @media(max-width:700px){.line{grid-template-columns:1fr 1fr 1fr}.line .ld{grid-column:1/-1}.invoice-head{flex-direction:column}.invoice-title{text-align:left}.invoice-meta{grid-template-columns:1fr}.invoice{padding:16px}.invoice table{font-size:13px}}
 @media print{body{background:white}.no-print,nav,header{display:none!important}main{padding:0;max-width:none}.invoice{box-shadow:none;padding:0}.invoice table{page-break-inside:auto}.invoice tr{page-break-inside:avoid}}
+/* Contours verts pour les lignes de travaux */
+.line {
+  border: 2px solid #16834b;
+  border-radius: 8px;
+  padding: 8px;
+  margin-bottom: 10px;
+}
+
+.line input,
+.line select {
+  border: 1px solid #16834b;
+  border-radius: 5px;
+}
