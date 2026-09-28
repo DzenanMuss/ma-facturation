@@ -1,0 +1,9 @@
+{
+  "name": "Ma Facturation",
+  "short_name": "Facturation",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#f5f7fa",
+  "theme_color": "#111827",
+  "icons": []
+}
