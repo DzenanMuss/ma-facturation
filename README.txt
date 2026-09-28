@@ -1,3 +1,2 @@
-MA FACTURATION V2 ANDROID
-Fonctions: clients, factures, devis, conversion devis->facture, paiements, numérotation, HT/TVA/TTC, impression/PDF, logo, sauvegarde/restauration.
-Les données sont stockées sur le téléphone. Faire des sauvegardes JSON régulièrement.
+Ma Facturation V3 – version adaptée aux artisans peintres.
+Ajouts : unités m², ml, unité, forfait, heure et jour ; quantité ; prix unitaire HT ; présentation de devis/factures plus proche d'une facture de peintre ; tableau des travaux ; totaux HT/TVA/TTC ; conservation des données V2.
